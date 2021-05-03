@@ -1,3 +1,3 @@
 # Lab02
 
-Demonstrates simple class type structure
+Demonstrates simple class type structures
